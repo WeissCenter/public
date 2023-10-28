@@ -1,7 +1,18 @@
-# Accessing Higher Ground Workshop (2023)
-Unlock the potential of digital accessibility at our workshop "**How to create accessible experiences that inspire.**” 
-Discover how content can unintentionally create barriers and explore strategies to overcome them. 
+# Accessing Higher Ground Workshop (2023) 
+Unlock the potential of digital accessibility at our workshop. Discover how content can unintentionally create barriers and explore strategies to overcome them. 
 Learn rapid prototyping to develop inclusive solutions. Involve people with disabilities for valuable feedback.
+
+## Workshop: How to create accessible experiences that inspire
+
+- Presenters:
+  - Mark Zebley
+  - Marcelo Paiva - Inclusive Designer and Accessibility lead ([linkedin](https://www.linkedin.com/in/mtpaiva/))
+    
+- Length of Session: 3-hr
+- Format: Bring-your-own Device Workshop: Bring your Windows or Mac laptop to take full advantage of the workshop.
+- Expertise Level: All Levels
+- Type of session: Pre-conference
+- Conference description: [accessinghigherground.org](https://accessinghigherground.org/how-to-create-accessible-experiences-that-inspire/)
 
 ## Abstract
 - Access to data is crucial in today's digital age, but almost one in four adults in the US faces barriers due to disabilities, especially when accessing Individuals with Disabilities Education Act (IDEA) data. At the Rhonda Weiss Center for Accessible IDEA data, our goal is to improve equity by promoting accessibility beyond minimum compliance.
