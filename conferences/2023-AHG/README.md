@@ -34,8 +34,8 @@ Learn rapid prototyping to develop inclusive solutions. Involve people with disa
 - WCAG in plain language (15 min)
 - Activity: Is your favorite site accessible? (10 min)
 - [ ----- 10 MIN BREAK ----- ]
-- The Strategic approach to Accessibility in organizations (10 min)
-- The Tactical approach to Accessibility in teams (10 min)
+- Universal Design Principles (10 min)
+- Inclusive Design Principles (10 min)
 - The Inclusive Design Process (20 min)
 - Activity: User Journey + Priority Guides (10 min)
 - [ ----- 10 MIN BREAK ----- ]
