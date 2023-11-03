@@ -4,9 +4,10 @@ The following prompts were created as example for the content-first activities a
 ## 1. Prime the AI with Jacob's persona.
 ```
 I am creating a prototype for a fictitious job search engine to showcase the accessibility and user requirements for a candidate like Jacob. 
-In this prototype, I will start by creating the user journey map and then ask you to create the priority guides using a content-first methodology.
 
-Don't create anything yet, just reply with an acknowledgement about the persona I'd like to use as a reference for making sure the solution is accessible:
+Do NOT react to this request just yet. I will give you specific tasks in the next prompt. Just reply with an acknowledgement "Jobs for Jacobs!" 
+
+Here's the persona I'd like to use as a reference for making sure the solution is accessible:
 
 Jacob, Blind, a bit of a geek
 "The right technology lets me do anything."
