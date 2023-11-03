@@ -34,12 +34,12 @@ Learn rapid prototyping to develop inclusive solutions. Involve people with disa
 - WCAG in plain language (15 min)
 - Activity: Is your favorite site accessible? (10 min)
 - [ ----- 10 MIN BREAK ----- ]
-- Universal Design Principles (10 min)
-- Inclusive Design Principles (10 min)
-- The Inclusive Design Process (20 min)
+- Universal Design Principles (15 min)
+- Inclusive Design Principles (15 min)
+- The Inclusive Design Process (10 min)
+- - [ ----- 10 MIN BREAK ----- ]
 - Activity: User Journey + Priority Guides (10 min)
-- [ ----- 10 MIN BREAK ----- ]
-- Activity: Intent Framing + Chat GPT (20 min)
+- Activity: Intent Framing + Chat GPT (10 min)
 - Activity: Accessible Rapid Prototyping (20 min)
 - Users Testing with Accessibility in mind (10 min)
 - Questions and Answers (10 min)
