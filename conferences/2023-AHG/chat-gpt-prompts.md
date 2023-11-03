@@ -1,11 +1,11 @@
 # Chat GPT Prompts for the Activities
 The following prompts were created as example for the content-first activities at the workshop. 
 
-## 1. Prime teh AI with Jacob's persona.
+## 1. Prime the AI with Jacob's persona.
 ```
-I am creating a prototype for a fictitious  job search engine to showcase the accessibility and user requirements for a candidate like Jacob. 
+I am creating a prototype for a fictitious job search engine to showcase the accessibility and user requirements for a candidate like Jacob. 
 In this prototype, I will start by creating the priority guides using a content-first methodology. can you help me with the content? 
-Here's a persona profile of a user I'd like to user as a reference for making sure the solution is accessible.
+Here's a persona profile of a user I'd like to user as a reference for making sure the solution is accessible:
 
 Jacob, Blind, a bit of a geek
 "The right technology lets me do anything."
@@ -38,7 +38,7 @@ Assistive Technology
 ## 2. Create User Journey Map
 
 ```
-Create a user journey map outlining the steps Jacob might take when using the job search engine from searching for jobs, reviewing job descriptions, and applying for a job. This journey map should take into consideration the persona profile of Jacob, emphasizing the accessibility and user-friendly features of the platform.
-
-
+Create a user journey map outlining the steps Jacob might take when using the job search engine from searching for jobs, reviewing job descriptions, and applying for a job. This journey map should take into consideration the persona profile of Jacob, emphasizing the accessibility and user-friendly features of the platform. For each step of the journey create a headline and a description.
 ```
+
+## 3. 
