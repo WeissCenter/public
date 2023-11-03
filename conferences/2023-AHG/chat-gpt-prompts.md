@@ -3,10 +3,15 @@ The following prompts were created as example for the content-first activities a
 
 ## 1. Prime the AI with Jacob's persona.
 ```
+INTRODUCTION:
 I am creating a prototype for a fictitious job search engine to showcase the accessibility and user requirements for a candidate like Jacob. 
 
-Do NOT react to this request just yet. I will give you specific tasks in the next prompt. Just reply with an acknowledgement "Jobs for Jacobs!" 
+NOTE:
+- Do NOT react to this request just yet.
+- I will give you specific tasks in the next prompt.
+- Just reply with an acknowledgement "Jobs for Jacobs!" 
 
+USER PERSONA:
 Here's the persona I'd like to use as a reference for making sure the solution is accessible:
 
 Jacob, Blind, a bit of a geek
