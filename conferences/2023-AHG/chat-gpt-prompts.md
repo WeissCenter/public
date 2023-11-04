@@ -55,19 +55,19 @@ Include headline and description for each step of the journey.
 ### Results
 
 #### Stage 1: Job Searching
-
+Actions:
 - **Navigating to the Job Search Page** – Jacob lands on the website's homepage using his screen reader and navigates to the job search page using keyboard shortcuts or screen reader commands.
 - **Setting Search Criteria** – Jacob sets his search criteria, including job title, location, and specific accessibility requirements, using the website's accessible form fields.
 - **Browsing Search Results** – After submitting his search, Jacob reviews the search results presented in a clear and organized format, utilizing screen reader navigation commands.
 
 #### Stage 2: Reviewing Job Descriptions
+Actions:
 - **Selecting a Job Listing** – Jacob selects a job listing from the search results, which opens the job description page for that position.
 - **Exploring Job Details** – Jacob explores the job details, including responsibilities, qualifications, and company information, using his screen reader to read the content.
 - **Checking for Accessibility Information** – Jacob checks for accessibility-related information, such as workplace accommodations or inclusive hiring practices, within the job description.
 
 #### Stage 3: Applying for a Job
 Actions:
-
  1. **Initiating the Application Process** – Jacob initiates the job application process by clicking on the "Apply Now" button or similar, which opens the application form.
  2. **Completing the Application Form** – Jacob completes the application form, entering his personal information, uploading his resume, and providing additional details as required. The form is designed to be accessible, with proper labels and error messages.
  3. **Submitting the Application** – Jacob reviews his application details, ensures everything is accurate, and submits his application for the job opportunity. He receives a confirmation message on submission.
@@ -86,17 +86,41 @@ The goal is to have a good understanding of the end-user's motives and expectati
 ### Example:
 <img width="806" alt="priority guides take a step further from user journeys, by adding a description of the intent and outcomes expected from the user." src="https://github.com/WeissCenter/public/assets/135261167/06174649-58fa-4188-82b8-a3f64223eea2">
 
-
-## 4. Intent framing - designing with words
+## 4. Intent Framing: Designing with Words
 Intent framing is about designing an interface using words alone, without relying on visual elements. It's a way to guide users through a digital experience using clear, descriptive language. This approach lays out the user's path, explaining what actions they are taking, why, and what the outcomes will be, all through well-chosen words. 
 
-### Example:
+### Priming the AI for the content creation
+We can use the following prompt to prime teh AI with the next set of tasks: 
+
+`I am ready to start building the layout page. I will ask you repetitively to perform the same task, so do not react right now. Instead, asked me to enter the action. Your task will be to provide detail content for the actions, jut so that I can copy and paste into my layout.`
+
+### Result
+_Understood! I'm here to provide detailed content for your layout actions when you're ready. Please go ahead and enter the action for the first task, and I'll provide the content accordingly._
+
+### Next step: Create content for each action
+Simple take each User Journey action and add as a prompt:
+
+`Navigating to the Job Search Page – Jacob lands on the website's homepage using his screen reader and navigates to the job search page using keyboard shortcuts or screen reader commands.`
+
+### Result:
+
+_Certainly! Here's detailed content for the action "Navigating to the Job Search Page" to be included in your layout:_
+
+_**Action:** Navigating to the Job Search Page_
+_**Description:** Jacob, a tech-savvy user who is blind, relies on a screen reader to access the website. To begin his job search journey, he needs to navigate from the homepage to the job search page. This process should be smooth and efficient, catering to his specific needs._
+
+_**Content:**_
+- _**Heading**: Job Search_
+- _**Description**: Welcome to the job search page. Begin your search for the perfect job opportunity here._
+- _**Screen Reader Command**: Use your screen reader's navigation commands to find and select the "Job Search" heading._
+- _**Search Criteria Form**: Below the heading, you'll find an accessible form with the following fields:_
+  - _**Job Title**: Enter the job title you're looking for._
+  - _**Location**: Specify the desired location._
+  - _**Accessibility Requirements**: Check this box if you have specific accessibility requirements._
+- _**Button**: Click the "Search" button to initiate your job search._
+
+### Taking a step further
+You may organize this output in an artifact like the one below using your diagraming tool of choice:
 <img width="953" alt="A screen capture of a priority guide for job search, job listing and job details" src="https://github.com/WeissCenter/public/assets/135261167/78465c69-daf7-4a59-9760-c85a8785eaf5">
 
 
-
-## 4. Creating Content for your accessible prototype
-Next step is to start creating the content for your accessible prototype. For this task, we'll leverage 
-```
-I am ready to start building the layout page. I will ask you repetitively to perform the same task, so do not react right now. Instead, asked me to enter the action. Your task will be to provide detail content for the actions, jut so that I can copy and paste into my layout. 
-```
