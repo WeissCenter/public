@@ -112,9 +112,8 @@ _**Description:** Jacob, a tech-savvy user who is blind, relies on a screen read
 _**Content:**_
 - _**Heading**: Job Search_
 - _**Description**: Welcome to the job search page. Begin your search for the perfect job opportunity here._
-- _**Screen Reader Command**: Use your screen reader's navigation commands to find and select the "Job Search" heading._
 - _**Search Criteria Form**: Below the heading, you'll find an accessible form with the following fields:_
-  - _**Job Title**: Enter the job title you're looking for._
+  - _**Search for jobs**: Enter the job title you're looking for._
   - _**Location**: Specify the desired location._
   - _**Accessibility Requirements**: Check this box if you have specific accessibility requirements._
 - _**Button**: Click the "Search" button to initiate your job search._
