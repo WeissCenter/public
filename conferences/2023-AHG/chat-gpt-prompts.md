@@ -83,11 +83,14 @@ You may create a flow diagram from these results.
 For each step of the user journey mapping, create each priority guide using the tool of your choice (e.g. Paper/Pencil, Trello or Figma).
 The goal is to have a good understanding of the end-user's motives and expectation.
 
+### Example:
+<img width="806" alt="priority guides take a step further from user journeys, by adding a description of the intent and outcomes expected from the user." src="https://github.com/WeissCenter/public/assets/135261167/06174649-58fa-4188-82b8-a3f64223eea2">
+
 
 ## 4. Intent framing - designing with words
 Intent framing is about designing an interface using words alone, without relying on visual elements. It's a way to guide users through a digital experience using clear, descriptive language. This approach lays out the user's path, explaining what actions they are taking, why, and what the outcomes will be, all through well-chosen words. 
 
-### Example
+### Example:
 <img width="953" alt="A screen capture of a priority guide for job search, job listing and job details" src="https://github.com/WeissCenter/public/assets/135261167/78465c69-daf7-4a59-9760-c85a8785eaf5">
 
 
