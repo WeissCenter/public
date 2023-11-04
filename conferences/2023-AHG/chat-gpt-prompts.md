@@ -45,48 +45,55 @@ Assistive Technology
 ## 2. Create User Journey Map
 
 ```
-Create a user journey map outlining the steps Jacob might take when using the job search engine from searching for jobs, reviewing job descriptions, and applying for a job. This journey map should take into consideration the persona profile of Jacob, emphasizing the accessibility and user-friendly features of the platform. For each step of the journey create a headline and a description.
+TASK: USER JOURNEY MAP
+Create a high-level user journey map outlining the steps Jacob might take on the website to find his next job opportunity using the following stages. Breakdown the stages in steps for this journey: 
+- Stage 1: Job Searching
+- Stage 2: Reviewing Job Descriptions
+- Stage 3: Applying for a Job
+Include headline and description for each step of the journey.
 ```
 ### Results
 
-Certainly! Below is a user journey map tailored to Jacob's persona as he navigates through the job search engine.
+#### Stage 1: Job Searching
 
-#### Step 1: Accessing the Platform
-- Headline: **Seamless Access with Assistive Technology**
-- Description: Jacob opens the job search engine on his laptop, using JAWS to navigate. The platform's accessibility features are immediately apparent, making it easy for him to orient himself.
+- **Navigating to the Job Search Page** – Jacob lands on the website's homepage using his screen reader and navigates to the job search page using keyboard shortcuts or screen reader commands.
+- **Setting Search Criteria** – Jacob sets his search criteria, including job title, location, and specific accessibility requirements, using the website's accessible form fields.
+- **Browsing Search Results** – After submitting his search, Jacob reviews the search results presented in a clear and organized format, utilizing screen reader navigation commands.
 
-#### Step 2: Creating a Profile
-- Headline: **Effortless Profile Creation with Voice Assistance**
-- Description: Jacob is prompted to create a profile. The form fields are well-labeled and compatible with his screen reader, allowing him to input his information with ease.
+#### Stage 2: Reviewing Job Descriptions
+- **Selecting a Job Listing** – Jacob selects a job listing from the search results, which opens the job description page for that position.
+- **Exploring Job Details** – Jacob explores the job details, including responsibilities, qualifications, and company information, using his screen reader to read the content.
+- **Checking for Accessibility Information** – Jacob checks for accessibility-related information, such as workplace accommodations or inclusive hiring practices, within the job description.
 
-#### Step 3: Setting Up Job Preferences
-- Headline: **Intuitive Job Preference Set-Up**
-- Description: Jacob specifies his job preferences using intuitive, voice-enabled controls. The platform's predictive text helps speed up the process, suggesting relevant terms as he types.
+#### Stage 3: Applying for a Job
+Actions:
 
-#### Step 4: Browsing Job Listings
-- Headline: **Accessible Job Browsing Experience**
-- Description: Jacob browses through job listings. The listings are read out loud via his screen reader, with clear headings and well-structured information making it easy to understand the job details.
+ 1. **Initiating the Application Process** – Jacob initiates the job application process by clicking on the "Apply Now" button or similar, which opens the application form.
+ 2. **Completing the Application Form** – Jacob completes the application form, entering his personal information, uploading his resume, and providing additional details as required. The form is designed to be accessible, with proper labels and error messages.
+ 3. **Submitting the Application** – Jacob reviews his application details, ensures everything is accurate, and submits his application for the job opportunity. He receives a confirmation message on submission.
 
-#### Step 5: Reviewing Job Descriptions
-- Headline: **Comprehensive Job Descriptions with Assistive Features**
-- Description: Jacob clicks on a job title to view more details. The job description page is well-organized and accessible, with essential information read out clearly and additional details available on demand.
+This user journey map outlines the steps Jacob might take on the website to find and apply for his next job opportunity, taking into consideration his blind condition and tech-savvy nature, ensuring a seamless and accessible experience throughout the process.
 
-#### Step 6: Saving Jobs
-- Headline: **Simple Job Saving Functionality**
-- Description: Jacob finds a few jobs he's interested in and easily saves them to review later. The save function is straightforward and confirms vocally that the job has been saved to his account.
+### User Journey mapping diagram
+You may create a flow diagram from these results.
+<img width="792" alt="image" src="https://github.com/WeissCenter/public/assets/135261167/00fe3a67-068a-4e67-9331-b88a089ad12c">
 
-#### Step 7: Applying for a Job
-- Headline: **Hassle-free Job Application Process**
-- Description: Jacob decides to apply for a job. The application process is streamlined, with well-labeled form fields and the option to upload his resume directly from his device. The platform confirms his application submission vocally and visually, ensuring he's aware that the process is complete.
 
-#### Step 8: Tracking Applications
-Headline: **User-friendly Application Tracking**
-Description: Jacob can effortlessly track his job applications through a dedicated section on the platform. He receives accessible notifications, both via email and on the platform, keeping him updated on the status of his applications.
+## 3. Create Priority Guides
+For each step of the user journey mapping, create each priority guide using the tool of your choice (e.g. Paper/Pencil, Trello or Figma).
+The goal is to have a good understanding of the end-user's motives and expectation.
 
-#### Step 9: Receiving and Responding to Employer Communications
-- Headline: **Accessible Communication with Potential Employers**
-- Description: Jacob receives messages from potential employers directly through the platform. The messaging system is accessible, allowing him to read messages via his screen reader and respond easily.
 
-This user journey emphasizes a frictionless experience that leverages accessibility features to empower Jacob in his job search process. The platform's user-friendly and accessible design ensures that Jacob, and users with similar needs, can navigate, interact, and complete key tasks with ease.
+## 4. Intent framing - designing with words
+Intent framing is about designing an interface using words alone, without relying on visual elements. It's a way to guide users through a digital experience using clear, descriptive language. This approach lays out the user's path, explaining what actions they are taking, why, and what the outcomes will be, all through well-chosen words. 
 
-## 3. 
+### Example
+<img width="953" alt="A screen capture of a priority guide for job search, job listing and job details" src="https://github.com/WeissCenter/public/assets/135261167/78465c69-daf7-4a59-9760-c85a8785eaf5">
+
+
+
+## 4. Creating Content for your accessible prototype
+Next step is to start creating the content for your accessible prototype. For this task, we'll leverage 
+```
+I am ready to start building the layout page. I will ask you repetitively to perform the same task, so do not react right now. Instead, asked me to enter the action. Your task will be to provide detail content for the actions, jut so that I can copy and paste into my layout. 
+```
