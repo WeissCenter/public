@@ -120,6 +120,6 @@ _**Content:**_
 
 ### Taking a step further
 You may organize this output in an artifact like the one below using your diagraming tool of choice:
-<img width="953" alt="A screen capture of a priority guide for job search, job listing and job details" src="https://github.com/WeissCenter/public/assets/135261167/78465c69-daf7-4a59-9760-c85a8785eaf5">
+<img width="1185" alt="A screen capture of a priority guide for job search, job listing and job details" src="https://github.com/WeissCenter/public/assets/135261167/8ca56eda-7624-4ad1-8720-ce272a825049">
 
 
