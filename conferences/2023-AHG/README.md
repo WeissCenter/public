@@ -45,8 +45,8 @@ Learn rapid prototyping to develop inclusive solutions. Involve people with disa
 - Questions and Answers (10 min)
 
 ## Resources
-- Presentation handout - ([link](#))
-- Artifacts - ([link](#))
-- Tools - ([link](#))
-- Accessibility checkers - ([link](#))
+- Presentation (1 of 3) - ([powerpoint file](https://github.com/WeissCenter/public/raw/main/conferences/2023-AHG/%5BAHG-2023%5D%20How%20to%20Create%20Accessible%20Experiences%20%5B1%20of%203%5D.pptx))
+- Presentation (2 of 3) - ([powerpoint file](https://github.com/WeissCenter/public/raw/main/conferences/2023-AHG/%5BAHG-2023%5D%20How%20to%20Create%20Accessible%20Experiences%20%5B2%20of%203%5D.pptx))
+- Presentation (3 of 3) - ([powerpoint file](https://github.com/WeissCenter/public/raw/main/conferences/2023-AHG/%5BAHG-2023%5D%20How%20to%20Create%20Accessible%20Experiences%20%5B3%20of%203%5D.pptx))
+
   
