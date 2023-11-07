@@ -63,8 +63,8 @@ Learn rapid prototyping to develop inclusive solutions. Involve people with disa
 
 ### Articles
 - [Learning to Recognize Exclusion](https://uxpajournal.org/learning-recognize-exclusion/) - Inclusive Design Principle
-- [Priority Guides: A Content-First Alternative to Wireframes](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/)
-- [The Sequence of Priority and Intent – Priority Guide with Intent: Alignment through Content Early](https://medium.com/workday-design/priority-guide-with-intent-alignment-through-content-early-fd5e1dad66fa)
-- [Screen Reader Keyboard Shortcuts and Gestures](https://dequeuniversity.com/screenreaders/)
+- [Priority Guides: A Content-First Alternative to Wireframes](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/), by Heleen van Nues, Lennart Overkamp
+- [The Sequence of Priority and Intent – Priority Guide with Intent: Alignment through Content Early](https://medium.com/workday-design/priority-guide-with-intent-alignment-through-content-early-fd5e1dad66fa), By Simone Ehrlich
+- [Screen Reader Keyboard Shortcuts and Gestures](https://dequeuniversity.com/screenreaders/), by Deque University
 
   
