@@ -62,7 +62,7 @@ Learn rapid prototyping to develop inclusive solutions. Involve people with disa
 - [A Web for Everyone, Designing Accessible User Experiences](https://rosenfeldmedia.com/books/a-web-for-everyone/), By Sarah Horton & Whitney Quesenbery
 
 ### Articles
-- Inclusive Design Principle #1: [Learning to Recognize Exclusion](https://uxpajournal.org/learning-recognize-exclusion/)
+- [Learning to Recognize Exclusion](https://uxpajournal.org/learning-recognize-exclusion/) - Inclusive Design Principle
 - [Priority Guides: A Content-First Alternative to Wireframes](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/)
 - [The Sequence of Priority and Intent – Priority Guide with Intent: Alignment through Content Early](https://medium.com/workday-design/priority-guide-with-intent-alignment-through-content-early-fd5e1dad66fa)
 - [Screen Reader Keyboard Shortcuts and Gestures](https://dequeuniversity.com/screenreaders/)
