@@ -122,4 +122,87 @@ _**Content:**_
 You may organize this output in an artifact like the one below using your diagraming tool of choice:
 <img width="1185" alt="A screen capture of a priority guide for job search, job listing and job details" src="https://github.com/WeissCenter/public/assets/135261167/8ca56eda-7624-4ad1-8720-ce272a825049">
 
+## Next Step: Build an accessible prototype
+With this useful content about our user's journey, you can now start building you prototype and test the content with users that rely on assistive technologies to experience the web.
+
+### No Latin (https://www.nolatin.com)
+No Latin is a free web-based app we created that converts priority guides into an accessible web prototype.
+
+This is a humble initiative by a small group of UX professionals that cares about improving the user experience of people with disabilities.
+
+We aim to motivate UX professionals to write quality content early so that No Latin can generate fully accessible prototypes for testing with people with disabilities.
+
+### Getting Started with No Latin
+
+#### 1. Adopt a content-first mindset
+If you haven't done so, this is a good time to pause and read the following article [Priority Guides: A Content-First Alternative to Wireframes](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/). It will make you a better human.
+
+##### What are prioritized content guides?
+Priority guide contains content and elements for a mobile screen, sorted by hierarchy from top to bottom and without layout specifications. The hierarchy is based on relevance to users, with the content most critical to satisfying user needs and supporting user (and company) goals higher up.
+
+#### 2. Master your content guides
+As describe earlier in this document, always create purposeful content by writing content guides with four essential elements:
+- Headline
+- Description
+- Role
+- Expectation
+
+Your priority guide should only contain real content that's relevant to the user. Lorem ipsum, or any other type of placeholder text, doesn't communicate how the page supports users in reaching their goals.
+
+#### 3. Use No Latin to create your content guides
+No Latin helps you creating and prioritizing the content guides in a web page, and export an accessible web page to test with screen-reader users, for example. .
+
+[Add a page](https://nolatin.com/create) for each step of the user journey mapping.
+
+Then go into a page and start adding headlines based on your priority guides. As soon as you create a new page, No Latin will start building your accessible prototype for **preview**.
+
+#### 4. Create intentful headlines for your page
+
+- Start by adding a single headline, focusing on writing good and descriptive content;
+- Create additional headlines to address your user's needs.
+- Prioritize your headlines up or down, based on you think is most important for your user.
+
+#### 5. Share and Test your prototype
+No Latin generates web prototypes with Accessibility in mind by providing:
+- Detailed skip-links
+- Purposeful landmarks
+- Semantic headings
+- Good aria attributes
+- Image alternative text
+- Visual focus appearance
+
+Once, your prototype is ready to be evaluated by a diverse group of users, click on the **share** button to create a friendly URL to be shared with your participants.
+
+## Including people with disabilities in Usability studies
+We created a user testing guidelines on how to provide proper accomodations for assistive technology users during your usability studies.
+
+### Recruiting Participants
+- Be clear and specific about the types of disabilities you are looking to include in your study.
+- Ensure that your recruitment process is accessible, for example, by providing alternative ways for potential participants to get in touch with you, such as via email or phone.
+- Consider partnering with disability advocacy groups to help identify potential participants and ensure that your study is inclusive.
+
+### Preparing for the Study
+- Ensure that your study materials and facilities are accessible to all participants. Offer your study materials in alternative formats, such as Braille or large print. If you're conducting your study in a physical research facility, make sure that the facility is accessible to people with disabilities. This includes providing wheelchair accessibility, accessible restrooms, and accessible parking.
+- Consider using assistive technology tools yourself to better understand the needs of your participants and to identify potential accessibility issues with your designs.
+- Be aware of potential sensory issues that your participants may experience, such as sensitivity to bright lights or loud noises. Make adjustments to your study environment as needed to accommodate these needs.
+
+### Conducting Your Usability Study
+When conducting your usability study, make sure to follow best practices for working with people with disabilities. This includes:
+
+- Using person-first language to refer to participants with disabilities (e.g., "person with a disability" instead of "disabled person"). Ask the person the language that they prefer.
+- Allow participants to use their own assistive technology devices during the study.
+- Be patient and flexible with participants who may need extra time or assistance to complete tasks.
+- Provide clear instructions and allow participants to ask questions if they are unsure about what to do.
+- Consider providing alternative ways for participants to provide feedback, such as using voice recognition software or allowing participants to write down their responses.
+
+During the study, make sure to observe how participants interact with your digital designs and any assistive technology they may be using. Ask for their feedback and suggestions for improving the accessibility of your designs.
+
+### Post-Study Follow-Up
+- Compensate participants fairly. Verify that rewards platforms/tools are accessible before study begins​. Check for preferred payment methods.
+- Consider providing participants with a summary of the study findings and any changes you plan to make to your design based on their feedback.
+- Use the feedback from your study to improve the accessibility of your designs for all users.
+
+## Conclusion
+Testing your digital designs with people with disabilities is an important part of ensuring that your designs are accessible to all users. By following these guidelines and best practices, you can help make your usability studies more inclusive and effective.
+
 
