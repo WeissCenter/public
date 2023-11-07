@@ -1,7 +1,14 @@
-# Chat GPT Prompts for the Activities
+# Step by step guide for Accessible Prototyping
+These guidelines will help building a content-first mindset to create accessible experiences.
+
+**Poor Content leads to Poor Accessibility**
+
+With this premise in mind, we encourage using a language model like ChatGPT to assist you on content creating. 
+
+## Chat GPT Prompts for the Activities
 The following prompts were created as example for the content-first activities at the workshop. 
 
-## 1. Prime the AI with Jacob's persona.
+### 1. Prime the AI with Jacob's persona.
 ```
 INTRODUCTION:
 I am creating a prototype for a fictitious job search engine to showcase the accessibility and user requirements for a candidate like Jacob. 
