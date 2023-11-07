@@ -45,9 +45,26 @@ Learn rapid prototyping to develop inclusive solutions. Involve people with disa
 - Questions and Answers (10 min)
 
 ## Resources
+
+### Presentation PDF
+- 
+
+### Presentation (Powerpoint splitted into 3 files) 
 - Presentation (1 of 3) - ([powerpoint file](https://github.com/WeissCenter/public/raw/main/conferences/2023-AHG/%5BAHG-2023%5D%20How%20to%20Create%20Accessible%20Experiences%20%5B1%20of%203%5D.pptx))
 - Presentation (2 of 3) - ([powerpoint file](https://github.com/WeissCenter/public/raw/main/conferences/2023-AHG/%5BAHG-2023%5D%20How%20to%20Create%20Accessible%20Experiences%20%5B2%20of%203%5D.pptx))
 - Presentation (3 of 3) - ([powerpoint file](https://github.com/WeissCenter/public/raw/main/conferences/2023-AHG/%5BAHG-2023%5D%20How%20to%20Create%20Accessible%20Experiences%20%5B3%20of%203%5D.pptx))
-- [Step-by step overview of our workshop](step-by-step.md)
+
+### Guided instructions
+- [Step by step guide for Accessible Prototyping](step-by-step.md)
+
+### Books 
+- [Mismatch – How Inclusion Shapes Design](https://mitpress.mit.edu/9780262539487/mismatch/), By Kat Holmes
+- [A Web for Everyone, Designing Accessible User Experiences](https://rosenfeldmedia.com/books/a-web-for-everyone/), By Sarah Horton & Whitney Quesenbery
+
+### Articles
+- Inclusive Design Principle #1: [Learning to Recognize Exclusion](https://uxpajournal.org/learning-recognize-exclusion/)
+- [Priority Guides: A Content-First Alternative to Wireframes](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/)
+- [The Sequence of Priority and Intent – Priority Guide with Intent: Alignment through Content Early](https://medium.com/workday-design/priority-guide-with-intent-alignment-through-content-early-fd5e1dad66fa)
+- [Screen Reader Keyboard Shortcuts and Gestures](https://dequeuniversity.com/screenreaders/)
 
   
