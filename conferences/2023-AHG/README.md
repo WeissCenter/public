@@ -46,8 +46,8 @@ Learn rapid prototyping to develop inclusive solutions. Involve people with disa
 
 ## Resources
 
-### Presentation PDF
-- 
+### Presentation PDF (8.4 MB)
+- [download pdf file](https://weisscenter.github.io/public/conferences/2023-AHG/%5BAHG-2023%5D%20How%20to%20create%20%20%20Accessible%20Experiences%20that%20inspire%20-%20Handout.pdf)
 
 ### Presentation (Powerpoint splitted into 3 files) 
 - Presentation (1 of 3) - ([powerpoint file](https://github.com/WeissCenter/public/raw/main/conferences/2023-AHG/%5BAHG-2023%5D%20How%20to%20Create%20Accessible%20Experiences%20%5B1%20of%203%5D.pptx))
