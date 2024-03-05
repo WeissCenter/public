@@ -71,3 +71,10 @@ At the Weiss Center, we are dedicated to breaking down the barriers in data repr
 ![Image Placeholder: Diverse individuals accessing data on multiple devices, Caption: "Universal data accessibility in action."](https://placehold.co/600x400?text=Universal+data+accessibility+in+action&font=roboto)
 
 By reimagining data visualization as data representation, we are not just changing terminology; we are shaping a future where accessibility and inclusivity are at the forefront of data analysis. Through our work with ADAPT and our ongoing efforts to provide Technical Assistance, the Weiss Center is paving the way for a more equitable and inclusive world of data. We invite you to join us on this journey, exploring the endless possibilities that accessible data can bring to our lives, our policies, and our communities.
+
+For more information, to participate in our usability sessions, or to seek Technical Assistance, please contact us at:
+
+Email: info@weissta.org
+Website: www.weissta.org
+
+Together, let's explore the limitless possibilities that come with accessible data.
