@@ -12,17 +12,16 @@ The Rhonda Weiss Center for Accessible IDEA Data invites you to an interactive s
 - [Download Presentation Handout (PDF 3.2 MB)](https://github.com/WeissCenter/public/blob/52bd4743937f3ec7429502f9385d5711b89691db/conferences/2024-CSUN/%5BCSUN-2024%5D%20Design%20Tokens%20-%20Handout.pdf)
 - [Demo link](#)
 
-## Presentations
+## Explore the Power of Accessible Open-Source Reporting Tool
+The Rhonda Weiss Center for Accessible IDEA Data (hereinafter the Weiss Center) has been developed to honor and continue the work of the amazing individual for whom the center is named. Our mission is to improve a State’s capacity to collect, analyze, report, and use IDEA (Individuals with Disabilities Education Act) Part B and C data in accessible and inclusive formats. The Weiss Center is developing an Accessible Data Analysis and Publishing Tool (ADAPT) to assist States in reporting their IDEA data in accessible formats that allow for dynamic visualizations that can be manipulated for persons with and without disabilities. Join us for an enlightening session to see ADAPT in action. We will demonstrate how 1) non-technical users can use the tool to author and publish reports that are accessible by persons with disabilities and 2) persons with disabilities can access IDEA reports and gain insights in a meaningful manner.  
 
-### Heading 3
-Describe
-Presenters: 
+- Presenters: Sarah Massengale, Nichole Bui, Johan Remple and Marcelo Paiva
+- Date: Wednesday, March 21, 2024 1:20 PM PDT
+- Location: Orange County 3-4
+- [Download Presentation Handout (PDF 3.2 MB)](#)
 
-Presentation: [Download](#) 
-
-### Heading 3
-Describe
-Presenters: 
-
-Presentation: [Download](#) 
+## Help us help you improve student outcomes
+The Rhonda Weiss Center for Accessible IDEA Data is excited to invite you to participate in our upcoming usability study!
+This usability study aims to ensure the concept design for our new data reporting solution is accessible, user-friendly, and meets the diverse needs of all users.
+[Sign-up and participate](https://bit.ly/weiss-research)
 
