@@ -19,7 +19,7 @@ The Rhonda Weiss Center for Accessible IDEA Data (hereinafter the Weiss Center) 
 - Date: Thursday, March 21, 2024 1:20 PM PDT
 - Location: Orange County 3-4
 - [Download Presentation Handout (PDF 513 KB)](https://github.com/WeissCenter/public/raw/main/conferences/2024-CSUN/%5BCSUN%202024%5D%20ADAPT%20-%20Handout.pdf)
-- [Link to screen reader demo (MP4 Video 20.8 MB](https://github.com/WeissCenter/public/raw/main/conferences/2024-CSUN/CSUN-PLAN-B.mp4)
+- [Link to screen reader demo (MP4 Video 20.8 MB](https://github.com/WeissCenter/public/raw/main/conferences/2024-CSUN/CSUN-PLAN-B.mp4))
 
 ## Help us help you improve student outcomes
 The Rhonda Weiss Center for Accessible IDEA Data is excited to invite you to participate in our upcoming usability study!
