@@ -6,7 +6,7 @@ Public link to this page: [https://weisscenter.github.io/public/conferences/2024
 ## Design Tokens for Equitable Data Representation
 The Rhonda Weiss Center for Accessible IDEA Data invites you to an interactive session exploring the innovative use of design tokens for equitable data representation. IDEA, or the Individuals with Disabilities Education Act, ensures special education services for disabled students. This session will showcase our groundbreaking open-source tool to generate accessible IDEA data reports. By attending, you will gain insights into how design tokens are employed to accommodate a broad spectrum of user needs and disabilities, including but not limited to blindness, low vision, color blindness, dyslexia, ADHD and cognitive impairments. Through real-world examples, collaborative discussions and practical approaches, this session will empower designers, developers and accessibility advocates to integrate design tokens into their workflow and contribute to a more inclusive digital world. 
 
-- Presenters: Mark Zebley and Marcelo Paiva
+- Presenters: Johan Rempel, Mark Zebley and Marcelo Paiva
 - Date: Wednesday, March 20, 2024 9:20 AM PDT
 - Location: Platinum 8
 - [Download Presentation Handout (PDF 3.9 MB)](https://github.com/WeissCenter/public/raw/main/conferences/2024-CSUN/%5BCSUN-2024%5D%20Design%20Tokens%20-%20Handout.pdf)
