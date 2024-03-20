@@ -10,7 +10,7 @@ The Rhonda Weiss Center for Accessible IDEA Data invites you to an interactive s
 - Date: Wednesday, March 20, 2024 9:20 AM PDT
 - Location: Platinum 8
 - [Download Presentation Handout (PDF 3.9 MB)](https://github.com/WeissCenter/public/raw/main/conferences/2024-CSUN/%5BCSUN-2024%5D%20Design%20Tokens%20-%20Handout.pdf)
-- [Demo link](#)
+- [Demo link](https://csun-demo.vercel.app/csun)
 
 ## Explore the Power of Accessible Open-Source Reporting Tool
 The Rhonda Weiss Center for Accessible IDEA Data (hereinafter the Weiss Center) has been developed to honor and continue the work of the amazing individual for whom the center is named. Our mission is to improve a State’s capacity to collect, analyze, report, and use IDEA (Individuals with Disabilities Education Act) Part B and C data in accessible and inclusive formats. The Weiss Center is developing an Accessible Data Analysis and Publishing Tool (ADAPT) to assist States in reporting their IDEA data in accessible formats that allow for dynamic visualizations that can be manipulated for persons with and without disabilities. Join us for an enlightening session to see ADAPT in action. We will demonstrate how 1) non-technical users can use the tool to author and publish reports that are accessible by persons with disabilities and 2) persons with disabilities can access IDEA reports and gain insights in a meaningful manner.  
